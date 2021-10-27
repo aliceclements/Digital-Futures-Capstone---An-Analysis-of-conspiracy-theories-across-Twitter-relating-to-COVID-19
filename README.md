@@ -1,4 +1,4 @@
-# Using Natural Language Processing to analyse the dissemination of conspiracy theories relating to COVID-19 on Twitter (24th July - 30th August 2020)
+# Analysing the dissemination of conspiracy theories relating to COVID-19 on Twitter (24th July - 30th August 2020)
 
 Aim: Use NLP to scrape Twitter data in order to analyse conspiracy theories on the platform. Following the outbreak of COVID there has been a notable increase in the proliferation of medical disinformation and conspiracy theories, with speculations gaining significant traction on social media platforms. It is important to counter false information with clear, high-quality evidence, which is what I am hoping to establish in this project.  
 
